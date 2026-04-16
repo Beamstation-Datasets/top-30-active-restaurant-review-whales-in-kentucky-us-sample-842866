@@ -1,0 +1,12 @@
+{
+  "export_job_id": "eec09862-08f5-4789-ad98-70bd7e505cc6",
+  "id_short": 842866,
+  "published_at": "2026-04-16T19:22:56Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-kentucky-us-sample-842866",
+  "sample_asset_name": "beamstation_842866_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/842866/beamstation_842866_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_records": 223,
+  "sample_sha256": "3c1f13b95addaa6b9cadcb328a4ec7b989b230b02c4415375eb6d3409a33ed86",
+  "sample_size_bytes": 924038,
+  "total_records": 2205
+}
