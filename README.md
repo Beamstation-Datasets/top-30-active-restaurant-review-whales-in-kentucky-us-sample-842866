@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Kentucky, US
 
-> Free BeamStation sample export with 176 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `842866` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 1,762 records |
-| Free sample size | 176 records (9.99%) |
-| Last export | 2026-04-22T14:25:43.757369+00:00 |
+| Full dataset size | 362 records |
+| Free sample size | 36 records (9.94%) |
+| Last export | 2026-04-29T14:50:33.268239+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-kentucky-us-sample-842866/releases/download/sample-latest/beamstation_842866_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
